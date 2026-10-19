@@ -43,3 +43,5 @@ jobs:
           name: openems-866mhz-results
           path: results/patch/
           if-no-files-found: warn
+
+# Re-run requested on 2026-10-19; push triggers physics workflow.
