@@ -44,4 +44,5 @@ jobs:
           path: results/patch/
           if-no-files-found: warn
 
-# Re-run requested on 2026-10-19; push triggers physics workflow.
+
+# CI trigger: request a fresh openEMS build and simulation run.
